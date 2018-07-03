@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="toptrated"
+        android:title="TopRated"
+
+        android:theme="@style/AppTheme.NoActionBar"
+        />
+    <ListPreference
+        android:key="moviepopular"
+        android:title="MoviePopular"
+android:defaultValue="http://api.themoviedb.org/3/movie/popular?api_key=666d61b5201fa34bad7884124fa6260d"
+        android:theme="@style/AppTheme.NoActionBar"
+        />
+</PreferenceScreen>

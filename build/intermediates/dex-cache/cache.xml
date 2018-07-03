@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\amgad\CVS\MoviesApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="62888cad90a0a97b18aeea1a3adc4437777ff52d">
+        <dex dex="E:\amgad\CVS\MoviesApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a6b761369489746bea147903865d05f8d2c33e6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\amgad\CVS\MoviesApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\amgad\CVS\MoviesApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f350fb34b6aff24708b634b048eb7887e6e26c3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Amgad Rady\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="E:\amgad\CVS\MoviesApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_e73815ca2a1cd788e97e7a49f8af8d3e2dd70961\classes.dex" />
+    </item>
+
+</items>
